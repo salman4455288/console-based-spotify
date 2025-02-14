@@ -1,0 +1,136 @@
+[33mcommit cc3539bc2ac1dc9698b673f6e7016d00a7b3e1f0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: salman4455288 <i230775@isb.nu.edu.pk>
+Date:   Wed Feb 12 19:53:26 2025 +0500
+
+    Add files via upload
+
+[1mdiff --git a/data.csv b/data.csv[m
+[1mnew file mode 100644[m
+[1mindex 0000000..646e8ef[m
+[1m--- /dev/null[m
+[1m+++ b/data.csv[m
+[36m@@ -0,0 +1,181 @@[m
+[32m+[m[32mSong Title	Artist Name	Genre(s)[m
+[32m+[m[32mWoh Lamhe	Atif Aslam	Pop/Rock[m
+[32m+[m[32mAadat	Atif Aslam	Pop/Rock[m
+[32m+[m[32mBheegi Yaadein	Atif Aslam	Pop/Rock[m
+[32m+[m[32mDoorie	Atif Aslam	Pop/Rock[m
+[32m+[m[32mEhsaas	Atif Aslam	Pop/Rock[m
+[32m+[m[32mTere Bin	Atif Aslam	Pop/Rock[m
+[32m+[m[32mKuch Is Tarah	Atif Aslam	Pop/Rock[m
+[32m+[m[32mPehli Nazar Mein	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mMera Dil	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mTu Jaane Na	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mBe Intehaan	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mMaeri	Atif Aslam	Pop/Rock[m
+[32m+[m[32mKinara	Atif Aslam	Pop/Rock[m
+[32m+[m[32mHum Kis Gali Jaa Rahe Hain	Atif Aslam	Pop/Rock[m
+[32m+[m[32mMusafir	Atif Aslam	Pop/Rock[m
+[32m+[m[32mManwa Laage	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mJeena Jeena	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mTeri Meri Kahani	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mDil Diyan Gallan	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mDekhte Dekhte	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mPaniyon Sa	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mPhir Se	Atif Aslam	Pop/Rock[m
+[32m+[m[32mAasman	Atif Aslam	Pop/Rock[m
+[32m+[m[32mHona Tha Pyar	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mRabba	Atif Aslam	Sad/Melody[m
+[32m+[m[32mO Re Piya	Atif Aslam	Sufi/Bollywood[m
+[32m+[m[32mTere Liye	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mKhairiyat	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mAtif Aslam Mashup	Atif Aslam	Various (Mix of genres)[m
+[32m+[m[32mRanjha	Atif Aslam	Sufi/Folk[m
+[32m+[m[32m12 Bajay	Atif Aslam	Pop/Rock[m
+[32m+[m[32mMaa	Atif Aslam	Melodic[m
+[32m+[m[32mChalak Chalak	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mKadi Te Hans Bol	Atif Aslam	Punjabi Folk/Pop[m
+[32m+[m[32mTere Sang Yaara	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mBol Ke Lub Azad Hain Tere	Atif Aslam	Patriotic/Melodic[m
+[32m+[m[32mDarasal	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mDooriyan	Atif Aslam	Pop/Rock[m
+[32m+[m[32mRafta Rafta	Atif Aslam	Pop/Rock[m
+[32m+[m[32mO Mere Khuda	Atif Aslam	Devotional/Melodic[m
+[32m+[m[32mJanam Janam	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mMain Rang Sharbaton Ka	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mMusafir Hoon Yaaron	Atif Aslam	Melodic/Travel[m
+[32m+[m[32mZindagi Aa Raha Hoon Main	Atif Aslam	Inspirational/Bollywood[m
+[32m+[m[32mKya Hua Tera Wada	Atif Aslam	Melodic/Remake[m
+[32m+[m[32mWoh Ajnabi	Atif Aslam	Pop/Rock[m
+[32m+[m[32mAadat (Kalyug)	Atif Aslam	Pop/Rock[m
+[32m+[m[32mBakhuda Tumhi Ho	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mPehli Dafa	Atif Aslam	Romantic/Pop[m
+[32m+[m[32mKuch To Hua Hai	Atif Aslam	Romantic/Bollywood[m
+[32m+[m[32mTum Hi Ho	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mKabira	Arijit Singh	Bollywood Sufi/Melody[m
+[32m+[m[32mIlahi	Arijit Singh	Bollywood Inspirational[m
+[32m+[m[32mMast Magan	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mMuskurane Ki Wajah Tum Ho	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mSuno Na Sangemarmar	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mHamari Adhuri Kahani (Title)	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mGerua	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mZaalima	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mAe Dil Hai Mushkil (Title)	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mHawayein	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mPhir Bhi Tumko Chahunga	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mTera Yaar Hoon Main	Arijit Singh	Bollywood Friendship/Melody[m
+[32m+[m[32mKalank (Title Track)	Arijit Singh	Bollywood Classical/Melody[m
+[32m+[m[32mKhairiyat	Arijit Singh	Bollywood Sad/Melody[m
+[32m+[m[32mTujhe Kitna Chahne Lage Hum	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mAashiqui Aa Gayi	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mKesariya	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mSatranga	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mJhoome Jo Pathaan	Arijit Singh	Bollywood Action/Dance[m
+[32m+[m[32mApna Bana Le	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mPyaar Hota Kayi Baar Hai	Arijit Singh	Bollywood Romantic/Comedy[m
+[32m+[m[32mChaleya	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mVe Maahi	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mManwa Laage	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mSenti Wali Mental	Arijit Singh	Bollywood Comedy/Dance[m
+[32m+[m[32mShaayad	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mFirst Class	Arijit Singh	Bollywood Dance/Party[m
+[32m+[m[32mDua	Arijit Singh	Bollywood Devotional/Melody[m
+[32m+[m[32mI Love You	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mDhokha	Arijit Singh	Bollywood Sad/Melody[m
+[32m+[m[32mTere Pyaar Mein	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mO Bedardeya	Arijit Singh	Bollywood Sad/Melody[m
+[32m+[m[32mItni Si Baat Hain	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mAgar Tum Saath Ho	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mSooraj Dooba Hai	Arijit Singh	Bollywood Party/Dance[m
+[32m+[m[32mIk Mulaqat	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mMain Tera Hero	Arijit Singh	Bollywood Comedy/Romantic[m
+[32m+[m[32mRaabta	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mChanna Mereya	Arijit Singh	Bollywood Sad/Melody[m
+[32m+[m[32mThe Breakup Song	Arijit Singh	Bollywood Party/Comedy[m
+[32m+[m[32mHawayein (Reprise)	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mZaalima (Reprise)	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mDil Dhadakne Do	Arijit Singh	Bollywood Melodic/Upbeat[m
+[32m+[m[32mGulabi Aankhen	Arijit Singh	Bollywood Romantic/Retro[m
+[32m+[m[32mMusafir	Arijit Singh	Bollywood Sad/Melody[m
+[32m+[m[32mTu Hai Meri Aashiqui	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mPhir Se Ud Chala	Arijit Singh	Bollywood Inspirational/Melody[m
+[32m+[m[32mKabhi Jo Badal Barse	Arijit Singh	Bollywood Romantic/Rain Song[m
+[32m+[m[32mMast Nazron Se	Arijit Singh	Bollywood Romantic[m
+[32m+[m[32mTeri Meri	Rahat Fateh Ali Khan	Bollywood Romantic[m
+[32m+[m[32mO Re Piya	Rahat Fateh Ali Khan	Bollywood Romentic[m
+[32m+[m[32mJag Ghumeya	Rahat Fateh Ali Khan	Bollywood Romantic, Punjabi[m
+[32m+[m[32mIshtyle	Rahat Fateh Ali Khan	Bollywood, Pop[m
+[32m+[m[32mSajna	Rahat Fateh Ali Khan	Bollywood Romantic[m
+[32m+[m[32mNaina Re	Rahat Fateh Ali Khan	Bollywood Romantic[m
+[32m+[m[32mDil To Hai	Rahat Fateh Ali Khan	Bollywood Sad/Melody[m
+[32m+[m[32mJiya Dhadak Dhadak Jaye	Rahat Fateh Ali Khan	Bollywood Romantic[m
+[32m+[m[32mMann Ki Lagan	Rahat Fateh Ali Khan	Bollywood, Sufi[m
+[32m+[m[32mBol Do Na Zara	Rahat Fateh Ali Khan	Bollywood Romantic[m
+[32m+[m[32mAfreen Afreen (Reprise)	Rahat Fateh Ali Khan	Bollywood, Qawwali, Sufi[m
+[32m+[m[32mRabba Ishq Hai	Rahat Fateh Ali Khan	Bollywood, Sufi[m
+[32m+[m[32mMain Tenu Samjhawan Ki	Rahat Fateh Ali Khan	Bollywood, Punjabi, Folk[m
+[32m+[m[32mMere Rashke Qamar	Rahat Fateh Ali Khan	Bollywood, Qawwali, Romantic[m
+[32m+[m[32mAllahu Allahu	Rahat Fateh Ali Khan	Qawwali, Sufi, Devotional[m
+[32m+[m[32mDum Mast Qalandar (Reprise)	Rahat Fateh Ali Khan	Qawwali, Sufi, Devotional[m
+[32m+[m[32mChaap Tilak	Rahat Fateh Ali Khan	Qawwali, Sufi[m
+[32m+[m[32mHalka Halka Suroor	Rahat Fateh Ali Khan	Qawwali, Sufi[m
+[32m+[m[32mMast Nazron Se	Rahat Fateh Ali Khan	Qawwali, Sufi[m
+[32m+[m[32mNit Khair Mangan	Rahat Fateh Ali Khan	Qawwali, Sufi[m
+[32m+[m[32mDam Mast Qalandar	Nusrat Fateh Ali Khan	Qawwali, Sufi, Devotional[m
+[32m+[m[32mAllah Hoo	Nusrat Fateh Ali Khan	Qawwali, Sufi, Devotional[m
+[32
